@@ -17,7 +17,7 @@ class Etudiant: Personne {
         } else {
             print("L'étudiant n'a pas de bourse")
         }
-        print("Année d'étude : + \(self.anneeEtude)")
+        print("Année : + \(self.anneeEtude)")
     }
 
 }
